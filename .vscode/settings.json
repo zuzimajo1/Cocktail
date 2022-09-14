@@ -1,0 +1,8 @@
+{
+    "prettier.singleQuote": false,
+    "prettier.jsxSingleQuote": false,
+    "html.completion.attributeDefaultValue": "empty",
+    "typescript.preferences.quoteStyle": "auto",
+    "javascript.preferences.quoteStyle": "auto",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
