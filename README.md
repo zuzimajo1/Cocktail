@@ -24,7 +24,7 @@
 ## 🖼️ Preview
 
 <h3 align="center">Register</h3>
-<img src="./assets/images/Register.jpg" alt="secretmepic"></img>
+<img width="100px" height="200px" src="./assets/images/Register.jpg" alt="secretmepic"></img>
 <br>
 <h3 align="center">Login</h3>
 <img src="./assets/images/Login.jpg" alt="secretmepic"></img>
