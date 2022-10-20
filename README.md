@@ -23,38 +23,38 @@
 
 ## 🖼️ Preview
 
-<h3 align="center">Register</h3>
+<h3 >Register</h3>
 <img align="center" width="300px" height="600px" src="./assets/images/Register.jpg" alt="secretmepic"></img>
 <br>
-<h3 align="center">Login</h3>
+<h3 >Login</h3>
 <img align="center"  width="300px" height="600px" src="./assets/images/Login.jpg" alt="secretmepic"></img>
-<h3 align="center">Home</h3>
+<h3 >Home</h3>
 <img align="center"  width="300px" height="600px" src="./assets/images/Homepage.jpg" alt="secretmepic"></img>
 <br>
-<h3 align="center">Search</h3>
+<h3 >Search</h3>
 <img align="center"  width="300px" height="600px" src="./assets/images/Search.jpg" alt="secretmepic"></img>
 <br>
-<h3 align="center">Viewing single cocktail</h3>
+<h3 >Viewing single cocktail</h3>
 <img align="center"  width="300px" height="600px" src="./assets/images/AddCart.jpg" alt="secretmepic"></img>
 <br>
-<h3 align="center">Cart</h3>
+<h3 >Cart</h3>
 <img align="center"  width="300px" height="600px" src="./assets/images/Cart.jpg" alt="secretmepic"></img>
 <br>
-<h3 align="center">Checking the cocktail to checkout</h3>
+<h3 >Checking the cocktail to checkout</h3>
 <img align="center"  width="300px" height="600px" src="./assets/images/CartChecked.jpg" alt="secretmepic"></img>
 <br>
-<h3 align="center">Checkout</h3>
+<h3 >Checkout</h3>
 <img align="center"  width="300px" height="600px" src="./assets/images/Checkout.jpg" alt="secretmepic"></img>
 <br>
-<h3 align="center">When the order is done</h3>
+<h3 >When the order is done</h3>
 <img align="center"  width="300px" height="600px" src="./assets/images/CheckoutDone.jpg" alt="secretmepic"></img>
 <br>
-<h3 align="center">Orders</h3>
+<h3 >Orders</h3>
 <img align="center"  width="300px" height="600px" src="./assets/images/Order.jpg" alt="secretmepic"></img>
 <br>
-<h3 align="center">Viewing the order</h3>
+<h3 >Viewing the order</h3>
 <img align="center"  width="300px" height="600px" src="./assets/images/ViewOrder.jpg" alt="secretmepic"></img>
 <br>
-<h3 align="center">Account</h3>
+<h3 >Account</h3>
 <img align="center"  width="300px" height="600px" src="./assets/images/Account.jpg" alt="secretmepic"></img>
 <br>
